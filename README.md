@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyanshu845438/LeetHub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu845438/LeetHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Priyanshu845438/LeetHub/tree/master/0217-contains-duplicate) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu845438/LeetHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0088-merge-sorted-array) |
 ## Sorting
