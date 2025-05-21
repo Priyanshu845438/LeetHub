@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priyanshu845438/LeetHub/tree/master/0217-contains-duplicate) |
+| [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
 ## Greedy
 |  |
 | ------- |
