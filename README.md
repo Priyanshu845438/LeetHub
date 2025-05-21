@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu845438/LeetHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priyanshu845438/LeetHub/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
