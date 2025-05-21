@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/Priyanshu845438/LeetHub/tree/master/1205-defanging-an-ip-address) |
 ## Greedy
 |  |
 | ------- |
