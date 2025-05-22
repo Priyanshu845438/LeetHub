@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu845438/LeetHub/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/Priyanshu845438/LeetHub/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Priyanshu845438/LeetHub/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Priyanshu845438/LeetHub/tree/master/1205-defanging-an-ip-address) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Priyanshu845438/LeetHub/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
