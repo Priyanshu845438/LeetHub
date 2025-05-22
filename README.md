@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Priyanshu845438/LeetHub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Priyanshu845438/LeetHub/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priyanshu845438/LeetHub/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Priyanshu845438/LeetHub/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Priyanshu845438/LeetHub/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Priyanshu845438/LeetHub/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
