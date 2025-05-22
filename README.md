@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Priyanshu845438/LeetHub/tree/master/0812-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyanshu845438/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyanshu845438/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
