@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Priyanshu845438/LeetHub/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Priyanshu845438/LeetHub/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Priyanshu845438/LeetHub/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Priyanshu845438/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Priyanshu845438/LeetHub/tree/master/0812-rotate-string) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Priyanshu845438/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Priyanshu845438/LeetHub/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Priyanshu845438/LeetHub/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
