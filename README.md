@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu845438/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Priyanshu845438/LeetHub/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu845438/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Priyanshu845438/LeetHub/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Priyanshu845438/LeetHub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyanshu845438/LeetHub/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu845438/LeetHub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Priyanshu845438/LeetHub/tree/master/0782-jewels-and-stones) |
 ## String
