@@ -4,10 +4,8 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Set<List<Integer>> result = new HashSet<>();
         int n = nums.length;
-        Arrays.sort(nums);  // Sort to help avoid duplicates easily
-
+        Arrays.sort(nums);
         for (int i = 0; i < n - 2; i++) {
-            // Avoid duplicates for the first number
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             int target = -nums[i];
